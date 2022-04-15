@@ -1,0 +1,162 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+body{
+        font-family: Arial,
+        Helvetica,
+        sans-serif;
+        text-align: center;
+        
+}
+
+
+h1{
+    font-size: 5rem;
+}
+
+#image2{
+    border-radius: 100%;
+    
+
+     
+}
+#small-heading{
+    font-size:1.2rem;
+    font-weight: bold;
+    color:#acdbdb;
+    margin-bottom: 2rem;
+
+}
+.section-one {
+    /* height: 400px; */
+    display: flex;
+    flex-direction: column;
+    background-color:#acdbdb;
+    padding: 40px 15px;
+
+}
+.bi-sec1 {
+    margin-top: 3em;
+    width: 100%;
+}
+
+.left {
+    width: 30%;
+    float: left;
+    margin-left: 0;
+
+}
+
+.right {
+    width:60%;
+    line-height: 24px;
+    text-align: left;
+    float: right;
+    padding-right: 100px;
+
+
+}
+#about {
+    margin-top: 4rem;
+    ;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+#skills {
+    margin-top: 4rem;
+    ;
+    color: #acdbdb;
+
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+p{
+    display: block;
+}
+
+
+img{
+  
+    height: 200px;
+    width:fit-content;
+     margin-bottom: 2rem;
+}
+div{
+    display: block;
+}
+#header{
+font-size:2rem;
+color:#66bfbf;
+font-weight: bold;
+}
+
+
+.section-three{
+    height: 200px;
+    width: 100%;
+    background-color: #acdbdb;
+     border-bottom: 0.1rem solid grey;
+    border-top: 0.1rem solid grey;
+    padding:40px 0;
+    line-height:40px;
+    margin-top: 2rem;
+
+}
+.section-four{
+       margin-top: 3rem;       
+}
+#touch{
+     margin-top: 1.5rem;
+    font-size:1.2rem;
+    font-weight: bold;
+    color:#66bfbf;
+
+}
+form{
+
+margin-top:2rem;
+padding: 1rem 0;
+
+}
+input{
+    margin:1rem;
+}
+.gender{
+width: 50%;
+display: block;
+float:left;
+}
+.hobbies{
+width: 50%;
+float:right;
+}
+
+#text_area{
+margin-top: 1em;
+}
+button {
+     background-color: #66bfbf;
+     padding:0.5rem;
+     color:white;
+     font-weight: bold;
+     border:none;
+     border-radius: 5px;
+     
+ }
+.section-five {
+    background-color: #66bfbf;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+#links{
+    margin:1rem 0;
+}
